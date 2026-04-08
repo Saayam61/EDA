@@ -1,5 +1,5 @@
 # EDA
-This is a complete EDA practice repo
+This is a complete EDA repo for House Price prediction
 
 # Project Name: House Prices: Advanced Regression Techniques
 The main aim of this project is to predict the house price based on various features
